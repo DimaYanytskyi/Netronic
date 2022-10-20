@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Netronic</string>
+    <string name="back">Back</string>
+    <string name="recent_loaded_profiles">Recent loaded profiles</string>
+    <string name="name">Name</string>
+    <string name="thumbnail">Thumbnail</string>
+    <string name="username">username</string>
+    <string name="fullname">fullname</string>
+    <string name="email">email</string>
+    <string name="user_photo">user photo</string>
+    <string name="country">country</string>
+    <string name="get_profiles_1">Get Profiles</string>
+    <string name="_1">1</string>
+    <string name="logo">Logo</string>
+    <string name="history">history</string>
+</resources>
